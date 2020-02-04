@@ -1,4 +1,5 @@
 # opencv_face_Identification
+///PYTHON DA OPENCV KÜTÜPHANESİ KULLANARAK GERÇEK ZAMANLI YÜZ TANIMA (KİMLİK TESPİTİ) ALGORTİMASI///
 # ///NASIL ÇALIŞTIRILIR ?///
 zıp dosyasını indirin //
 data dosyasının içindekileri silin//
