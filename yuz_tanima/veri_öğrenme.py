@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 import os
 
-path = 'data1'
+path = 'data'
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 detector = cv2.CascadeClassifier("Cascade/haarcascade_frontalface_default.xml")
 
